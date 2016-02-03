@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks><task><description>Task in progress</description><icon>icon-adjust</icon><bookmark>true</bookmark></task><task><description>done task</description><icon>icon-adjust</icon><bookmark>false</bookmark><done>true</done></task><task><description>upcoming task</description><icon>icon-adjust</icon><bookmark>false</bookmark></task></tasks>

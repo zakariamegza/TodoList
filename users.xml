@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<login>david</login>
+		<password>david</password>
+		<type>admin</type>
+	</user>
+	<user>
+		<login>zakaria</login>
+		<password>zakaria</password>
+		<type>normal</type>
+	</user>
+	<user>
+		<login>isima</login>
+		<password>isima</password>
+		<type>normal</type>
+	</user>
+	
+
+</users>

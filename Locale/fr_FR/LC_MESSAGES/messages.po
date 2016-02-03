@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.8.6\n"
+
+
+msgid "Add_new_task"
+msgstr "Ajouter une nouvelle tache"
+
+msgid "Add_Task"
+msgid "Nouvelle tache"  
+
+msgid "Task"
+msgid "Tache"  
+
+msgid "Tasks"
+msgid "Taches" 
+
+msgid "Delete_this_task"
+msgid "Supprimer cette tache" 
+
+msgid "Mark_as_done"
+msgstr "Marquer deja fait"
+
+msgid "Mark_as_in_progress"
+msgstr "Marquer en cours"
+
+msgid "Users_Settings"
+msgstr "Parametres "
+
+msgid "Icon"
+msgid "Icone"  
+
+msgid "Language"
+msgid "Langue"  
+
+msgid "Sign_out"
+msgid "Se deconnecter"
+
+
+msgid "Task_Manager"
+msgstr "Gestionnaire des taches"
